@@ -2,11 +2,11 @@
 
 ### [Note Maker React App](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
 **Description:** A brief description of what the project does. Highlight key features and its purpose.  
-**Technologies:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+**Technologies:** React, JSX, Javascript, Vite, JSON server, Node, NPM, GIT
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
 **Description:** A brief description of what the project does. Highlight key features and its purpose.  
-**Technologies:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Technologies:** HTML, CSS, Javascript, NPM, GIT
 
 
 ## Proficient Technologies
