@@ -1,7 +1,7 @@
 ## Highlighted Projects
 
 ### [Just Do it - Notes](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
-**Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. With QuickNote, you can easily create, modify, and delete notes, making it perfect for everyday use.  
+**Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. You can easily create, modify, and delete notes, making it perfect for everyday use.  
 **Technologies:** React, JSX, Javascript, Vite, JSON server
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
