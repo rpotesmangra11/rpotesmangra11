@@ -1,3 +1,14 @@
+## Highlighted Projects
+
+### [Project Name 1](https://github.com/your-username/project-repo-1)
+**Description:** A brief description of what the project does. Highlight key features and its purpose.
+**Technologies:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+### [Project Name 2](https://github.com/your-username/project-repo-2)
+**Description:** A brief description of what the project does. Highlight key features and its purpose.
+**Technologies:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+
 ## Proficient Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
