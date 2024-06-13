@@ -1,12 +1,12 @@
 ## Highlighted Projects
 
-### [QuickNote - React App](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
-**Description:** QuickNote is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. With QuickNote, you can easily create, modify, and delete notes, making it perfect for everyday use.  
-**Technologies:** React, JSX, Javascript, Vite, JSON server, Node, NPM, GIT
+### [Just Do it - Notes](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
+**Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. With QuickNote, you can easily create, modify, and delete notes, making it perfect for everyday use.  
+**Technologies:** React, JSX, Javascript, Vite, JSON server
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
-**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills, responsive design, and user-friendly interface to provide an enjoyable user experience. 
-**Technologies:** HTML, CSS, Javascript, NPM, GIT
+**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design, providing an enjoyable user experience. 
+**Technologies:** HTML, CSS, Javascript
 
 
 ## Proficient Technologies
