@@ -1,11 +1,11 @@
 ## Highlighted Projects
 
-### [Note Maker React App](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
-**Description:** A brief description of what the project does. Highlight key features and its purpose.  
+### [QuickNote - React App](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
+**Description:** QuickNote is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. With QuickNote, you can easily create, modify, and delete notes, making it perfect for everyday use.
 **Technologies:** React, JSX, Javascript, Vite, JSON server, Node, NPM, GIT
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
-**Description:** A brief description of what the project does. Highlight key features and its purpose.  
+**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills, responsive design, and user-friendly interface to provide an enjoyable user experience. 
 **Technologies:** HTML, CSS, Javascript, NPM, GIT
 
 
