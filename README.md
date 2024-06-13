@@ -5,7 +5,7 @@
 **Technologies:** React, JSX, Javascript, Vite, JSON server
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
-**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design, providing an enjoyable user experience. 
+**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design, providing an enjoyable user experience.   
 **Technologies:** HTML, CSS, Javascript
 
 
