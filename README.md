@@ -8,7 +8,7 @@
 **Additional Info:** Please review repo README.md here for an outline of this entire project:    
 https://github.com/rpotesmangra11/note-react-app
 
-### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
+### [Hangman - Reggaeton Edition](https://rpotesmangra11.github.io/hangman-js/)
 **Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design while providing an enjoyable user experience.   
 **Technologies:** HTML, CSS, JavaScript  
 **Additional Info:** Please review repo README.md here for an outline of this entire project:     
