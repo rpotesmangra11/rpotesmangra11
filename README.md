@@ -1,16 +1,17 @@
 ## Highlighted Projects
 
 ### [Just Do it - Notes](https://note-react-app-frontend-9297f33085da.herokuapp.com/)
+**Goal:** The objective of this project was to establish a fully automated testing pipeline within a CI/CD framework to demonstrate my ability to set up continuous integration and how I can help deliver high-quality software.
 **Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. You can easily create, modify, and delete notes, making it perfect for everyday use.  
 **Technologies:** React, JSX, Javascript, Vite, JSON server  
 **Automation build in progress:** Mochawesome/Cypress Cloud(reporting), Cypress for test case execution, Jenkins CI/CD integration   
-**Additional Info:** Please review repo README.md here for outline of this entire project:    
+**Additional Info:** Please review repo README.md here for an outline of this entire project:    
 https://github.com/rpotesmangra11/note-react-app
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
-**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills, responsive design, while providing an enjoyable user experience.   
+**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design while providing an enjoyable user experience.   
 **Technologies:** HTML, CSS, JavaScript  
-**Additional Info:** Please review repo README.md here for outline of this entire project:     
+**Additional Info:** Please review repo README.md here for an outline of this entire project:     
 [https://github.com/rpotesmangra11/note-react-app](https://github.com/rpotesmangra11/hangman-js)
 
 
