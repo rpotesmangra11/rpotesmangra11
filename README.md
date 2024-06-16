@@ -5,7 +5,7 @@
 **Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. You can easily create, modify, and delete notes, making it perfect for everyday use.  
 **Technologies:** React, JSX, Javascript, Vite, JSON server  
 **Automation build in progress:** Mochawesome/Cypress Cloud(reporting), Cypress for test case execution, Jenkins CI/CD integration   
-**Additional Info:** Please review repo README.md here for an outline of this entire project:    
+**Additional Info:** Please review repo README here for an outline of this entire project:    
 https://github.com/rpotesmangra11/note-react-app
 
 ### [Hangman - Reggaeton Edition](https://rpotesmangra11.github.io/hangman-js/)
@@ -13,7 +13,7 @@ https://github.com/rpotesmangra11/note-react-app
 **Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design while providing an enjoyable user experience.   
 **What is Reggaeton?:** Reggaeton is a dynamic and rhythmic music genre that originated in Latin America, blending reggae, hip-hop, and Latin beats, and it represents a deep connection to my Spanish roots by celebrating cultural identity and musical heritage.   
 **Technologies:** HTML, CSS, JavaScript  
-**Additional Info:** Please review repo README.md here for an outline of this entire project:     
+**Additional Info:** Please review repo README here for an outline of this entire project:     
 [https://github.com/rpotesmangra11/note-react-app](https://github.com/rpotesmangra11/hangman-js)
 
 
