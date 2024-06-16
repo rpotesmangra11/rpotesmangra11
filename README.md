@@ -8,7 +8,8 @@
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
 **Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills, responsive design, while providing an enjoyable user experience.   
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript  
+**Additional Info:** Please review repo README.md here for outline of this entire project: [https://github.com/rpotesmangra11/note-react-app](https://github.com/rpotesmangra11/hangman-js)
 
 
 ## Proficient Technologies
