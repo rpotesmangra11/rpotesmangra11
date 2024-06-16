@@ -4,6 +4,7 @@
 **Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. You can easily create, modify, and delete notes, making it perfect for everyday use.  
 **Technologies:** React, JSX, JavaScript, Vite, JSON server  
 **Automation build in progress:** Mochawesome/Cypress Cloud(reporting), Cypress for test case execution, Jenkins CI/CD integration 
+Please review repo here for outline of this entire project: https://github.com/rpotesmangra11/note-react-app
 
 ### [Hangman](https://rpotesmangra11.github.io/hangman-js/)
 **Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills, responsive design, while providing an enjoyable user experience.   
