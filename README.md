@@ -9,7 +9,9 @@
 https://github.com/rpotesmangra11/note-react-app
 
 ### [Hangman - Reggaeton Edition](https://rpotesmangra11.github.io/hangman-js/)
-**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design while providing an enjoyable user experience.   
+**Goal:** The objective of this project was to demonstrate my passion for JavaScript, showcase my capabilities, and highlight my growth throughout my JavaScript journey.  
+**Description:** A fully interactive and engaging Hangman game built with JavaScript, showcasing advanced coding skills and responsive design while providing an enjoyable user experience. 
+**What is Reggaeton?:** Reggaeton is a dynamic and rhythmic music genre that originated in Latin America, blending reggae, hip-hop, and Latin beats, and it represents a deep connection to my Spanish roots by celebrating cultural identity and musical heritage.   
 **Technologies:** HTML, CSS, JavaScript  
 **Additional Info:** Please review repo README.md here for an outline of this entire project:     
 [https://github.com/rpotesmangra11/note-react-app](https://github.com/rpotesmangra11/hangman-js)
