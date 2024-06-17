@@ -35,7 +35,8 @@ https://github.com/rpotesmangra11/note-react-app
 ![Confluence](https://img.shields.io/badge/Confluence-blue?logo=confluence&color=172B4D)
 ![Command Line](https://img.shields.io/badge/Command_Line-007ACC?logo=windows%20terminal&logoColor=white)
 ![Mochawesome](https://img.shields.io/badge/Mochawesome-D4A373?logo=mocha&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 
@@ -48,8 +49,6 @@ https://github.com/rpotesmangra11/note-react-app
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
