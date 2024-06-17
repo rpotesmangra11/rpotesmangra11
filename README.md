@@ -21,6 +21,7 @@ https://github.com/rpotesmangra11/note-react-app
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![SQL Proficiency](https://img.shields.io/badge/SQL-Proficient-blue)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=flat&logo=chai&logoColor=white)
@@ -28,6 +29,11 @@ https://github.com/rpotesmangra11/note-react-app
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Proficient-orange)
+![Jenkins](https://img.shields.io/badge/Jenkins-Proficient-blue)
+![Jira](https://img.shields.io/badge/Jira-Proficient-green)
+![Confluence](https://img.shields.io/badge/Confluence-Proficient-blue)
+
 
 ## Explored Technologies
 
