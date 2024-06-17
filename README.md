@@ -34,7 +34,8 @@ https://github.com/rpotesmangra11/note-react-app
 ![Jira](https://img.shields.io/badge/Jira-green?logo=jira&color=0052CC)
 ![Confluence](https://img.shields.io/badge/Confluence-blue?logo=confluence&color=172B4D)
 ![Command Line](https://img.shields.io/badge/Command_Line-007ACC?logo=windows%20terminal&logoColor=white)
-![Mochawesome](https://img.shields.io/badge/Mochawesome-007ACC?logo=mocha&logoColor=white)
+![Mochawesome](https://img.shields.io/badge/Mochawesome-D4A373?logo=mocha&logoColor=white)
+
 
 
 
