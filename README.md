@@ -4,7 +4,7 @@
 **Goal:** The objective of this project was to establish a fully automated testing pipeline within a CI/CD framework, showcasing my capability to implement continuous integration and contribute to delivering high-quality software.  
 **Description:** Just Do it - Notes is a versatile and user-friendly note-taking application designed to help you stay organized and on top of your tasks. You can easily create, modify, and delete notes, making it perfect for everyday use.  
 **Technologies:** React, JSX, Javascript, Vite, JSON server  
-**Automation build in progress:** Mochawesome/Cypress Cloud(reporting), Cypress for test case execution, Jenkins CI/CD integration   
+**Automation build framework:** Mochawesome/Cypress Cloud(reporting), Cypress for test case execution, Jenkins CI/CD integration   
 **Additional Info:** Please review repo README here for an outline of this entire project:    
 https://github.com/rpotesmangra11/note-react-app
 
