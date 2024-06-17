@@ -28,9 +28,9 @@ https://github.com/rpotesmangra11/note-react-app
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&color=336791)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&color=F05032)
-![Jenkins](https://img.shields.io/badge/Jenkins-blue?logo=jenkins&color=D24939)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-171515?logo=git&logoColor=F05032)
+![Jenkins](https://img.shields.io/badge/Jenkins-040404?logo=jenkins&logoColor=D24939)
 ![Jira](https://img.shields.io/badge/Jira-green?logo=jira&color=0052CC)
 ![Confluence](https://img.shields.io/badge/Confluence-blue?logo=confluence&color=172B4D)
 
