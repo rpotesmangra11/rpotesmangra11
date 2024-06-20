@@ -16,6 +16,9 @@ https://github.com/rpotesmangra11/note-react-app
 **Additional Info:** Please review repo README here for an outline of this entire project:     
 [https://github.com/rpotesmangra11/note-react-app](https://github.com/rpotesmangra11/hangman-js)
 
+Check out my LeetCode profile to see my progress and solutions to various coding problems:
+[LeetCode Profile](https://leetcode.com/w4fCv553py/)
+
 
 ## Proficient Technologies
 
